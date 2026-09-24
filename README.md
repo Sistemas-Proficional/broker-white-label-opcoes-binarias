@@ -1,10 +1,10 @@
 # broker-white-label-opcoes-binarias
-Acesse o click no link e consigo o código disponivel por R$ 2.500,00 [https://wa.me/5511910220770]  Plataforma white-label de opções binárias (BO): Next.js + FastAPI, autenticação Supabase. Conta DEMO/REAL, KYC com upload, preços em tempo real, abertura/fechamento de posições, sistema de afiliados, e painel admin. Sistema mais completo do Mercado!
+Acesse o click no link e consigo o código disponivel por R$ 2.500,00 [https://wa.me/5511912536227]  Plataforma white-label de opções binárias (BO): Next.js + FastAPI, autenticação Supabase. Conta DEMO/REAL, KYC com upload, preços em tempo real, abertura/fechamento de posições, sistema de afiliados, e painel admin. Sistema mais completo do Mercado!
 Plataforma white-label de opções binárias (BO): Next.js + FastAPI, autenticação Supabase. Conta DEMO/REAL, KYC com upload, preços em tempo real, abertura/fechamento de posições, sistema de afiliados, e painel admin. Pagamentos via XGate (depósito PIX e saques PIX/crypto) com webhooks. Pronta para deploy.
 
 Plataforma BO white-label pronta para venda. CORE sólido: captura de candles em tempo real, motor de compra/venda, gestão de afiliados e regras de depósito/saque (PIX e crypto) com webhooks.
 Já operando em live.
-Interessados, entre em contato por [https://wa.me/5511910220770]
+Interessados, entre em contato por [https://wa.me/5511912536227]
 
 BUNISESS — Broker White Label (BO)
 IMAGENS NO FIM
