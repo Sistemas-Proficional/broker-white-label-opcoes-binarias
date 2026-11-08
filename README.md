@@ -4,19 +4,19 @@ Desenvolvimento e personalização de software para **corretora de opções bin�
 
 Conheça o projeto AXION, com página institucional, terminal em conta demo e apresentação em três idiomas:
 
-**[Português](https://github.com/Sistemas-Proficional/Sistemas-Proficional/blob/main/portfolio/corretora-opcoes-binarias-profissional/README.md)** · **[Español — plataforma de opciones binarias de marca blanca](https://github.com/Sistemas-Proficional/Sistemas-Proficional/blob/main/portfolio/corretora-opcoes-binarias-profissional/README.es.md)** · **[English — white label binary options platform](https://github.com/Sistemas-Proficional/Sistemas-Proficional/blob/main/portfolio/corretora-opcoes-binarias-profissional/README.en.md)**
+**[Português](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.md)** · **[Español — plataforma de opciones binarias de marca blanca](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.es.md)** · **[English — white label binary options platform](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.en.md)**
 
 **[Solicitar orçamento no WhatsApp](https://wa.me/5511912536227?text=Ol%C3%A1!%20Encontrei%20o%20reposit%C3%B3rio%20de%20corretora%20de%20op%C3%A7%C3%B5es%20bin%C3%A1rias%20white%20label%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20meu%20projeto.)**
 
 ## Projeto em destaque — AXION
 
-![Página institucional AXION — projeto de corretora de opções binárias white label](https://raw.githubusercontent.com/Sistemas-Proficional/Sistemas-Proficional/main/portfolio/corretora-opcoes-binarias-profissional/assets/axion-landing-page.png)
+![Página institucional AXION — projeto de corretora de opções binárias white label](https://raw.githubusercontent.com/Sistemas-Proficional/axion-broker-white-label/main/assets/axion-landing-page.png)
 
-![Terminal AXION em conta demo — gráfico BTC/USDT e controles de valor, expiração e direção](https://raw.githubusercontent.com/Sistemas-Proficional/Sistemas-Proficional/main/portfolio/corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png)
+![Terminal AXION em conta demo — gráfico BTC/USDT e controles de valor, expiração e direção](https://raw.githubusercontent.com/Sistemas-Proficional/axion-broker-white-label/main/assets/axion-binary-options-demo.png)
 
 As imagens apresentam a interface do projeto. A tela de negociação está em conta demo; feed de mercado, execução, pagamentos e integrações são definidos e validados conforme o escopo contratado.
 
-**[Ver a apresentação completa da AXION](https://github.com/Sistemas-Proficional/Sistemas-Proficional/blob/main/portfolio/corretora-opcoes-binarias-profissional/README.md)** · **[Conhecer outros projetos](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio)**
+**[Ver a apresentação completa da AXION](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.md)** · **[Conhecer outros projetos](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio)**
 
 ## Informações comerciais e técnicas
 
